@@ -1,0 +1,60 @@
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.exe.config
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.exe
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.pdb
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.AssemblyReference.cache
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.Form1.resources
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.Properties.Resources.resources
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.GenerateResource.cache
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.CoreCompileInputs.cache
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.exe
+C:\Users\czinz\source\repos\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.pdb
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.exe.config
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.exe
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.pdb
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.AssemblyReference.cache
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.Form1.resources
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.Properties.Resources.resources
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.GenerateResource.cache
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.CoreCompileInputs.cache
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.exe
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.pdb
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.Asio.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.Core.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.Midi.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.Wasapi.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.WinForms.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.WinMM.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\System.Security.AccessControl.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\NAudio.xml
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\System.Security.AccessControl.xml
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\czinz\Downloads\Visszaszámláló_óra\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.CopyComplete
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.exe.config
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.exe
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\Visszaszámláló_óra.pdb
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.Asio.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.Core.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.Midi.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.Wasapi.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.WinForms.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.WinMM.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\System.Security.AccessControl.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\System.Security.Principal.Windows.dll
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\NAudio.xml
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\System.Security.AccessControl.xml
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\bin\Debug\System.Security.Principal.Windows.xml
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.AssemblyReference.cache
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.Form1.resources
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.Properties.Resources.resources
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.GenerateResource.cache
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.CoreCompileInputs.cache
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.csproj.CopyComplete
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.exe
+D:\Visszaszámláló_óra másolata\Visszaszámláló_óra\obj\Debug\Visszaszámláló_óra.pdb
